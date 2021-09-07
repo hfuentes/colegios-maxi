@@ -1,0 +1,14 @@
+{
+  "name": "colegios",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "load": "node load.js",
+    "report": "node report.js"
+  },
+  "author": "Héctor Fuentes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
